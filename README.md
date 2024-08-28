@@ -17,4 +17,4 @@ Raw data were preprocessed using MatLab and the pipelines listed below.
     - glm_models.R (in current repository)
 
 ## Data repository
-1. Preprocessed data (EPhys spike and behavioral timestamps) can be downloaded from [UMD DRUM]
+1. Preprocessed data (EPhys spike and behavioral timestamps) can be downloaded from [UMD DRUM](http://hdl.handle.net/1903/33156)
