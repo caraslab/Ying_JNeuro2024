@@ -9,11 +9,12 @@ Raw data were preprocessed using our MatLab and pipelines listed below.
     - [Behavior](https://github.com/caraslab/caraslab-behavior-analysis)
     - [EPhys + behavior](https://github.com/caraslab/caraslab-spikesortingKS2)
 
-3. Data processing and plotting with MatLab:
-    - [EPhys + behavior](https://github.com/caraslab/Caraslab_EPhys_preprocessing_pipeline)
+3. Data processing with MatLab:
     - [ePsych Analysis Toolbox](https://github.com/caraslab/epa)
-
-4. Data analysis and plotting with R pipeline (current repository)
+    - Session Pipeline (in current repository)
+4. Data and statistical analysis with Matlab/R:
+    - Analysis Pipeline (in current repository)
+    - glm_models.R (in current repository)
 
 ## Data repository
-1. Preprocessed data (EPhys spike timestamps, photometry raw signals, behavioral timestamps) can be downloaded from [UMD DRUM]
+1. Preprocessed data (EPhys spike and behavioral timestamps) can be downloaded from [UMD DRUM]
