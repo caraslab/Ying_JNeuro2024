@@ -1,5 +1,5 @@
 # Supporting code for Ying et al., 2024 JNeuro
-Raw data were preprocessed using our MatLab and pipelines listed below.
+Raw data were preprocessed using MatLab and the pipelines listed below.
 
 ## Workflow
 
